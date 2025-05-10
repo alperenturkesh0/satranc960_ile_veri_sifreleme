@@ -123,11 +123,4 @@ result_output = tk.Text(result_frame,
                        state=tk.DISABLED)
 result_output.pack(pady=(5, 20))
 
-footer_label = tk.Label(frame_encrypt, 
-                       text="© 2023 Şifreleme Aracı", 
-                       font=('Helvetica', 8), 
-                       fg='#999',
-                       bg=BG_COLOR)
-footer_label.pack(side=tk.BOTTOM, pady=10)
-
 root.mainloop()
