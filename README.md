@@ -1,0 +1,1 @@
+# satranc960_ile_veri_sifreleme
